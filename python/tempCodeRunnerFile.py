@@ -1,0 +1,1 @@
+loor(hari), math.floor(jam), math.floor(menit), math.floor(detik)))
